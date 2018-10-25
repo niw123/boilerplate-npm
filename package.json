@@ -1,6 +1,10 @@
 {
-	"author": "z765089123",
+	"author": "Naruto Iwasaki",
 	"name": "fcc-learn-npm-package-json",
+	"description": "My fork of the freecodecamp NPM tutorial",
+	"keywords": [ "freecodecamp", "tutorial" ],
+	"license": "MIT",
+	"version": "1.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
